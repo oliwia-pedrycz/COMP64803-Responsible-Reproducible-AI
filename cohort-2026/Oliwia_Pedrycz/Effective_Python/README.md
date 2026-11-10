@@ -1,7 +1,7 @@
 
 # Effective Python
 
-Demonstrates of five effective Python programming practices.
+Demonstrates five effective Python programming practices.
 
 The "snippets" directory contains five executable Python examples:
 
